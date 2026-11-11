@@ -617,7 +617,7 @@ class TvDashboardPanel extends HTMLElement {
         people[j][1] +
         '" data-focusable="true" tabindex="0">' +
         '<div class="presence-dot"></div>' +
-        "<div><div class="person-name">" +
+        '<div><div class="person-name">' +
         people[j][0] +
         '</div><div class="person-state">' +
         this._escape(state.split("_").join(" ")) +
