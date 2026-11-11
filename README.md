@@ -4,7 +4,7 @@ A standalone full-screen Home Assistant dashboard designed specifically for Smar
 
 ## Version
 
-**0.2.0**
+**0.2.2**
 
 ## TV-first design
 
@@ -102,7 +102,7 @@ Back returns to the TV Dashboard Home page instead of opening the normal Home As
 
 Add this repository as a custom HACS repository:
 
-https://github.com/dkouskousis/ha-tv-dashboard
+https://github.com/iamdimitrisk/ha-tv-dashboard
 
 Category: **Integration**
 
