@@ -7,7 +7,7 @@ PANEL_URL = "tv-dashboard"
 PANEL_TITLE = "TV Dashboard"
 PANEL_ICON = "mdi:television"
 PANEL_ELEMENT = "tv-dashboard-panel"
-VERSION = "0.2.1"
+VERSION = "0.2.2"
 
 FRONTEND_DIR = Path(__file__).parent / "frontend"
 FRONTEND_URL = "/tv-dashboard-static"
