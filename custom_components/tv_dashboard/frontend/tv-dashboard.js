@@ -827,7 +827,7 @@ class TvDashboardPanel extends HTMLElement {
         p.entity_id +
         '" data-focusable="true" tabindex="0">' +
         '<ha-icon icon="mdi:speaker"></ha-icon>' +
-        "<div><div class="item-name">" +
+        '<div><div class="item-name">' +
         this._escape(this._friendly(p.entity_id)) +
         '</div><div class="item-state">' +
         this._escape(p.state) +
@@ -931,7 +931,7 @@ class TvDashboardPanel extends HTMLElement {
     html +=
       '<section class="weather-hero">' +
       '<ha-icon icon="mdi:weather-partly-cloudy"></ha-icon>' +
-      "<div><div class="weather-temp">" +
+      '<div><div class="weather-temp">' +
       this._escape(temp) +
       '°</div><div class="weather-condition">' +
       this._escape(weather.state.split("_").join(" ")) +
